@@ -1,2 +1,1 @@
-# Weather-prediction
-Weather prediction
+Developed a Weather Prediction project leveraging machine learning algorithms to forecast weather conditions accurately. Utilized historical weather data to train models, focusing on features like temperature, humidity, and wind speed. Implemented using Python and tools such as Pandas, NumPy, and Scikit-learn to enable data-driven insights and improve prediction reliability.
